@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+
+.left-margin{
+	margin: 0 .5em 0 0;
+}
+
+.right-button-magin{
+	margin:0 0 1em 0;
+	overflow: hidden;
+}
+.modal-body{
+	padding: 20px 20px 0px 20px;
+}
+.modal-footer{
+	test-align: center;s
+}
